@@ -18,7 +18,7 @@ Nous étions une équipe de 6 étudiants en 1ère année du cycle ingénieur à 
 
  Suivis par notre tutrice **Mme Ting WANG**, assistante professeur de robotique à ESIEE PARIS, nous avons reçu le prix du meilleur projet technique de la part du jury technique **M. Denis BUREAU** (tout à gauche sur la photo), professeur d'informatique à ESIEE Paris.
 
-**[Lire le rapport complet du projet VigiZone (PDF)](https://drive.google.com/uc?export=download&id=16rXCA4nlOrGEzkfiPZYJjSept83bqB7f)**
+**[Lire le rapport complet du projet VigiZone (PDF)](https://drive.google.com/file/d/1BZPJOVkefRmgPlemsRvYkF8nCj6Yr2O0)**
 
 ---
 
@@ -79,4 +79,4 @@ Comme nous l'a expliqué Monsieur Mathieu Baré, directeur prévention délégat
 
 Pour consulter l'intégralité de notre démarche (choix technologiques, algorithmes de trilatération, conception des cartes sous KiCad et analyse éthique), nous vous invitons à lire notre rapport complet.
 
-**[Lire le rapport complet du projet VigiZone (PDF)](https://drive.google.com/uc?export=download&id=16rXCA4nlOrGEzkfiPZYJjSept83bqB7f)**
+**[Lire le rapport complet du projet VigiZone (PDF)](https://drive.google.com/file/d/1BZPJOVkefRmgPlemsRvYkF8nCj6Yr2O0)**
